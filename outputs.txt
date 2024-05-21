@@ -1,0 +1,2 @@
+Rorbit(km) 	 Vorbit (km/s) 	 Torbit(min) 	 Theta(deg) 	 Thorizon(min)
+6971.0		7.4466		98.031		23.946		13.041
