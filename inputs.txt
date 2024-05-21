@@ -1,3 +1,0 @@
-Rearth (km): 	6371
-Gconst (SI): 	6.674E-11
-Mearth (kg): 	5.792E+24
